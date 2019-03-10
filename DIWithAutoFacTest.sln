@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIWithAutoFacTest", "DIWithAutoFacTest\DIWithAutoFacTest.csproj", "{DE1312D2-94E8-4AD5-A59C-7D54CF16284B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClassLib", "DemoClassLib\DemoClassLib.csproj", "{9ACB2EF0-59FE-496A-A91B-57BB6491C3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1312D2-94E8-4AD5-A59C-7D54CF16284B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1312D2-94E8-4AD5-A59C-7D54CF16284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1312D2-94E8-4AD5-A59C-7D54CF16284B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1312D2-94E8-4AD5-A59C-7D54CF16284B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACB2EF0-59FE-496A-A91B-57BB6491C3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACB2EF0-59FE-496A-A91B-57BB6491C3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACB2EF0-59FE-496A-A91B-57BB6491C3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACB2EF0-59FE-496A-A91B-57BB6491C3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22325180-D384-466F-B6DF-A74A6936B55C}
+	EndGlobalSection
+EndGlobal

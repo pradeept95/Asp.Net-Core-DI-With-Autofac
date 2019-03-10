@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a1cbbeeb033d839e7d2e18fe8535a6f6001b08cb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DIWithAutoFacTest/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.1",
+          "DemoClassLib": "1.0.0"
+        },
+        "runtime": {
+          "DIWithAutoFacTest.dll": {}
+        }
+      },
+      "Autofac/4.9.1": {
+        "runtime": {
+          "lib/netstandard2.0/Autofac.dll": {
+            "assemblyVersion": "4.9.1.0",
+            "fileVersion": "4.9.1.0"
+          }
+        }
+      },
+      "DemoClassLib/1.0.0": {
+        "runtime": {
+          "DemoClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIWithAutoFacTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dk3UQD94XM2HBjquOZoPWrQBUcv9G/K24K/qTiUJi13Fz/0X/wxcQi8z3K1ProCPxuZvadSgrzbpbni2HX1YTg==",
+      "path": "autofac/4.9.1",
+      "hashPath": "autofac.4.9.1.nupkg.sha512"
+    },
+    "DemoClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
